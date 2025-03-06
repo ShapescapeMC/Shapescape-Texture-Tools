@@ -5,15 +5,17 @@
 Installation <introduction/installation>
 Settings <introduction/settings>
 Usage <introduction/usage>
+Operations <introduction/operations>
+Example <introduction/example>
 ```
 
 ![](../header.jpg)
 
-# PLACEHOLDER
-PLACEHOLDER
+# Shapescape Texture Tools
+Shapescape Texture Tools is a regolith filter that allows you to create new textures by transforming other textures. 
 
 ## 🧑‍🏫 About
-PLACEHOLDER
+The filter is data-driven and uses a list of Python files to define how textures should be combined and manipulated. Each task is a list of dictionaries, where each dictionary defines an image to be created. The filter supports various operations such as pasting, scaling, offsetting, and setting tiles, which are applied to the background image to produce the final texture.
 
 ## 👷 Contributing
 We welcome contributions from the community! If you'd like to contribute to this project, please read our [contribute file](https://www.github.com/ShapescapeMC/PLACEHOLDER/blob/main/CONTRIBUTING.md) for guidelines on how to get started.

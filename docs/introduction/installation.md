@@ -4,14 +4,14 @@
 ## Steps
 
 ### 1. Install the filter
-Use the following command
+Use the following command:
 ```
-regolith install PLACEHOLDER
+regolith install shapescape_texture_tools
 ```
 
 You can alternatively use this command:
 ```
-regolith install github.com/ShapescapeMC/PLACEHOLDER/PLACEHOLDER
+regolith install github.com/ShapescapeMC/Shapescape-Texture-Tools/shapescape_texture_tools
 ```
 
 ### 2. Add filter to a profile
@@ -19,8 +19,8 @@ Add the filter to the `filters` list in the `config.json` file of the Regolith p
 
 ```json
 {
-  "filter": "PLACEHOLDER",
+  "filter": "shapescape_texture_tools",
   "settings": {
-  }
+      }
 }
 ```
