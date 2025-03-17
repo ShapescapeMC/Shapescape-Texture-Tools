@@ -1,4 +1,5 @@
 {
+	"description": "Regolith filter for combining and separating textures.",
 	"filters": [
 		{
 			"runWith": "python",
